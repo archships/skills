@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs Sprint"
+  short_description: "Docs-driven delivery workflow"
+  default_prompt: "Use $docs-sprint to split design docs into tasks and execute develop/verify/merge cycles."
